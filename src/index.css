@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.btn-custom {
+  background-color: #007bff; /* Change the background color to your desired color */
+  color: #fff; /* Change the text color if needed */
+  transition: all 0.3s ease; /* Add a transition effect for smooth hover animation */
+}
+
+.btn-custom:hover {
+  background-color: #0056b3; /* Change the background color on hover */
+  transform: scale(1.1); /* Add a slight scaling effect on hover */
+}
