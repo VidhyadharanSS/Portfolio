@@ -3,7 +3,8 @@ import { CalendarIcon } from '@radix-ui/react-icons'
 const experiences = [
   {
     title: 'Technical Trainee',
-    company: 'Zoho Corporation, Chennai, India',
+    company: 'Zoho Corporation',
+    location: 'Chennai, India',
     period: 'September 2024 - Present',
   },
   {
