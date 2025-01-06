@@ -50,7 +50,7 @@ export default function Home() {
           />
           <h1 className="text-4xl font-bold mb-4 text-gray-800 dark:text-white">Vidhyadharan S S</h1>
           <p className="text-xl text-gray-600 dark:text-gray-300 mb-6">
-            Aspiring Software Developer | B.Tech IT Student
+            Aspiring Software Developer | Technical Trainee @ Zoho Corp. | B.Tech IT Student
           </p>
         </div>
       </div>
