@@ -10,12 +10,13 @@ const experiences = [
   {
     title: 'Web Developer Intern',
     company: 'DCE Technology',
-    location: 'Virudhunagar',
+    location: 'Virudhunagar, India',
     period: 'December 2023 - January 2024',
   },
   {
     title: 'B.Tech IT Student',
-    company: 'TCE Madurai',
+    company: 'Thiagarajar College of Engineering',
+    location: 'Madurai, India',
     period: '2021 - 2025',
   },
 ]
