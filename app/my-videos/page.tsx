@@ -8,6 +8,12 @@ const videos = [
     description: 'Learn the basics of FastAPI in this introductory tutorial.',
     youtubeUrl: 'https://youtu.be/qCn2P2FbKSs',
   },
+   {
+    id: 2,
+    title: 'Introduction to FastAPI : Tutorial 2',
+    description: 'Learn how to define GET, POST, DELETE routes in this tutorial',
+    youtubeUrl: 'https://youtu.be/7MTQiACq_oU',
+  },
 ]
 
 // New blog entries
