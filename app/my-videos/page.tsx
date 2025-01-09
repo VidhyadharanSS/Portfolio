@@ -18,7 +18,7 @@ const videos = [
     id: 3,
     title: 'Introduction to FastAPI : Tutorial 3',
     description: 'Learn how to define PUT Route and Query parameters in this tutorial',
-    youtubeUrl: 'https://youtu.be/7MTQiACq_oU',
+    youtubeUrl: 'https://www.youtube.com/watch?v=uNx5JeNDORk&t=1373s',
   },
 ]
 
