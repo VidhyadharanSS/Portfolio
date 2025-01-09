@@ -14,6 +14,12 @@ const videos = [
     description: 'Learn how to define GET, POST, DELETE routes in this tutorial',
     youtubeUrl: 'https://youtu.be/7MTQiACq_oU',
   },
+  {
+    id: 3,
+    title: 'Introduction to FastAPI : Tutorial 3',
+    description: 'Learn how to define PUT Route and Query parameters in this tutorial',
+    youtubeUrl: 'https://youtu.be/7MTQiACq_oU',
+  },
 ]
 
 // New blog entries
