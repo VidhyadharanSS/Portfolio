@@ -4,21 +4,27 @@ import React from 'react';
 const videos = [
   {
     id: 1,
-    title: 'Introduction to FastAPI : Tutorial 1',
+    title: 'FastAPI : Tutorial 1',
     description: 'Learn the basics of FastAPI in this introductory tutorial.',
     youtubeUrl: 'https://youtu.be/qCn2P2FbKSs',
   },
    {
     id: 2,
-    title: 'Introduction to FastAPI : Tutorial 2',
+    title: 'FastAPI: Tutorial 2',
     description: 'Learn how to define GET, POST, DELETE routes in this tutorial',
     youtubeUrl: 'https://youtu.be/7MTQiACq_oU',
   },
   {
     id: 3,
-    title: 'Introduction to FastAPI : Tutorial 3',
+    title: 'FastAPI : Tutorial 3',
     description: 'Learn how to define PUT Route and Query parameters in this tutorial',
     youtubeUrl: 'https://www.youtube.com/watch?v=uNx5JeNDORk&t=1373s',
+  },
+  {
+    id: 4,
+    title: 'FastAPI : Tutorial 4',
+    description: 'Learn how to define PUT Route and Query parameters in this tutorial',
+    youtubeUrl: 'https://www.youtube.com/watch?v=-WgnVbkQ9Wo&t=1712s',
   },
 ]
 
