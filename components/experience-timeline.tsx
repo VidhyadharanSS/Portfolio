@@ -2,10 +2,16 @@ import { CalendarIcon } from '@radix-ui/react-icons'
 
 const experiences = [
   {
+    title: 'Member of Technical Staff - Platform Engineering/MLOps',
+    company: 'Zoho Corporation',
+    location: 'Chennai, India',
+    period: 'May 2025 - Present',
+  },
+  {
     title: 'Technical Trainee',
     company: 'Zoho Corporation',
     location: 'Chennai, India',
-    period: 'September 2024 - Present',
+    period: 'September 2024 - April 2025',
   },
   {
     title: 'Web Developer Intern',
@@ -46,4 +52,3 @@ export function ExperienceTimeline() {
     </div>
   )
 }
-
