@@ -50,7 +50,7 @@ export default function Home() {
           />
           <h1 className="text-4xl font-bold mb-4 text-gray-800 dark:text-white">Vidhyadharan S S</h1>
           <p className="text-xl text-gray-600 dark:text-gray-300 mb-6">
-            Aspiring Software Developer | Technical Trainee @ Zoho Corp. | B.Tech IT Student
+            Platform Engineer @ Zoho Corp.
           </p>
         </div>
       </div>
@@ -80,7 +80,7 @@ export default function Home() {
         <section>
           <h2 className="text-2xl font-semibold mb-4 text-red-600 dark:text-red-400">About Me</h2>
           <p className="text-gray-700 dark:text-gray-300 bg-gray-50 dark:bg-gray-800 p-6 rounded-lg shadow-md">
-            I'm a passionate software developer with expertise in machine learning, cloud computing, and web development. Currently pursuing my B.Tech in Information Technology at TCE Madurai, I'm always eager to learn and apply new technologies to solve real-world problems.
+            I'm a passionate software engineer working at Zoho Corp, where I focus on building scalable backend systems and cloud-native platforms. I recently completed my B.Tech in Information Technology from TCE Madurai. I enjoy working on projects that intersect backend architecture, distributed systems, and modern DevOps practices.
           </p>
         </section>
 
@@ -103,4 +103,3 @@ export default function Home() {
     </div>
   )
 }
-
