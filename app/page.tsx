@@ -2,7 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { ExperienceTimeline } from '@/components/experience-timeline'
 
-const skills = ['React.js', 'FastAPI', 'RedisDB', 'Scala', 'MongoDB', 'Docker', 'GitHub', 'System Design']
+const skills = ['Kubernetes', 'Docker', 'CI/CD', 'Bash scripting', 'REST APIs',  'MongoDB', 'GitHub', 'System Design']
 
 const socialLinks = [
   {
